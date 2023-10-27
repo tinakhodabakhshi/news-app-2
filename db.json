@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "mahziar",
+      "password": "birbir",
+      "fullname": "Mahziar"
+    }
+  ],
+  "comments": [
+    {
+      "name": "mahziar",
+      "url": "https://gizmodo.com/patrick-stewart-make-it-so-memoir-tng-acting-star-trek-1850963847",
+      "date": "2023-10-27",
+      "feedback": "Riraaaa",
+      "id": 1
+    },
+    {
+      "name": "mahziar",
+      "url": "https://gizmodo.com/patrick-stewart-make-it-so-memoir-tng-acting-star-trek-1850963847",
+      "date": "2023-10-27",
+      "feedback": "PinoCio",
+      "id": 2
+    },
+    {
+      "name": "mahziar",
+      "url": "https://gizmodo.com/patrick-stewart-make-it-so-memoir-tng-acting-star-trek-1850963847",
+      "date": "2023-10-27",
+      "feedback": "jaskd baskhbda",
+      "id": 3
+    }
+  ]
+}
